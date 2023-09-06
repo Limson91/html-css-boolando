@@ -88,6 +88,16 @@ figure > img {
     padding: 3px;
 }
 
+.sost-left {
+    display: inline-block;
+    background-color: green;
+    color: white;
+    text-align: center;
+    font-size: 9px;
+    width: 60px;
+    padding: 3px;
+}
+
 .heart {
     display: inline-block;
     background-color: white;
@@ -112,6 +122,11 @@ figure > img {
     position: absolute;
     bottom: 25px;
     left: 32px;
+}
+
+.sost-left {
+    position: absolute;
+    bottom: 25px;
 }
 
 .heart {
