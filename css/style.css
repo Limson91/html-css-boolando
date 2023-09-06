@@ -44,3 +44,21 @@ figure > img {
 .row > [class^='col'] {
     padding: 20px;
 }
+
+.brand {
+    font-size: 9px;
+}
+
+.clothes {
+    font-size: 10px;
+}
+
+.price {
+    font-size: 9px;
+    color: red;
+}
+
+.price-barr {
+    font-size: 9px;
+    text-decoration: line-through;
+}
