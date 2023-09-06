@@ -62,3 +62,8 @@ figure > img {
     font-size: 9px;
     text-decoration: line-through;
 }
+
+.card__info {
+    line-height: 0.7em;
+    margin-top: 5px;
+}
