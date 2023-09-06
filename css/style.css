@@ -135,3 +135,26 @@ figure > img {
     right: 0;
 }
 
+.img_card1:hover {
+    content: url(../img/1b.webp);
+}
+
+.img_card2:hover {
+    content: url(../img/2b.webp);
+}
+
+.img_card3:hover {
+    content: url(../img/3b.webp);
+}
+
+.img_card4:hover {
+    content: url(../img/4b.webp);
+}
+
+.img_card5:hover {
+    content: url(../img/5b.webp);
+}
+
+.img_card6:hover {
+    content: url(../img/6b.webp);
+}
