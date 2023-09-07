@@ -135,7 +135,7 @@ figure > img {
     right: 0;
 }
 
-.img_card1:hover {
+/* .img_card1:hover {
     content: url(../img/1b.webp);
 }
 
@@ -157,4 +157,14 @@ figure > img {
 
 .img_card6:hover {
     content: url(../img/6b.webp);
+} */
+
+.img-card-hover {
+    position: absolute;
+    left: 0;
+    opacity: 0;
+}
+
+.img-card-hover:hover {
+    opacity: 1;
 }
